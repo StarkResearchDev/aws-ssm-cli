@@ -1,0 +1,8 @@
+boto3
+colorama
+pyfiglet
+rich
+prompt_toolkit
+keyboard
+# If on Windows only:
+# windows-curses
